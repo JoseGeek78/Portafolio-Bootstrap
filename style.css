@@ -91,6 +91,13 @@ h1 {
 .experiencia .row div{
     height: 250px;
     background-color: purple;
+    border: 3px solid orange;
+}
+
+.experiencia-titulo {
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px 0;
 }
 
 
@@ -108,8 +115,6 @@ h1 {
      max-width: 600px;
   }
 }
-
-
 
 
 
