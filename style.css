@@ -94,6 +94,14 @@ h1 {
     border: 3px solid orange;
 }
 
+.experiencia i {
+    font-size: 2.5rem;
+    color: #7ade30;
+    background-color: #0a0a23;
+    padding: 8px 19px;
+    border-radius: 50%;
+}
+
 .experiencia-titulo {
     font-size: 25px;
     font-weight: bold;
@@ -115,6 +123,8 @@ h1 {
      max-width: 600px;
   }
 }
+
+
 
 
 
