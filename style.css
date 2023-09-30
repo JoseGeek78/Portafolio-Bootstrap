@@ -41,8 +41,21 @@ h1 {
     font-family: "Rubik dirt", cursive;
 }
 
+.seccion-descipcion {
+    font-size: 1.2rem;
+    color: #584e4e;
+}
+
 .seccion-texto {
     font-size: 1.2rem;
+}
+
+.texto-negro {
+    color: black;
+}
+
+.texto-blanco {
+    color: white;
 }
 
 /* Sección Hero */
@@ -126,6 +139,14 @@ h1 {
 .badges {
     margin: 50px;
 }
+
+/* Proyectos */
+
+.proyectos-recientes {
+    padding: 40px;
+}
+
+
 
 
 
