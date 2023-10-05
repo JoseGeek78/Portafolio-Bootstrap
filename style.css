@@ -176,6 +176,17 @@ h1 {
     margin-bottom: 0;
 }
 
+.proyecto {
+    position: relative;
+}
+
+.proyecto:hover img {
+    opacity: 0.2;
+}
+
+.proyecto:hover .overlay {
+    opacity: 1;
+}
 
 
 
