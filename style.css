@@ -79,6 +79,12 @@
     height: 220px;
     margin: 20px;
   }
+
+  .hero-inferior-imagen {
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
   
   .hero-principal h2 {
     font-size: 1.5rem;
