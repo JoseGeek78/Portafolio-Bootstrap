@@ -23,6 +23,10 @@
     font-size: 2.5rem;
     font-family: 'Rubik Dirt', cursive;
   }
+
+  p {
+    font-family: Verdana, sans-serif;
+  }
   
   .seccion-oscura {
     color: white;
