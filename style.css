@@ -192,6 +192,9 @@
   
   .proyecto {
     position: relative;
+    overflow: hidden;   /* Asegúrate de que las imágenes no se desborden */
+    height: 220px;      /* Ajusta la altura del contenedor en consecuencia */
+    margin-bottom: 20px; /* Opcional: espacio entre proyectos */
   }
   
   .proyecto:hover img {
@@ -211,6 +214,16 @@
     font-size: 60px;
     margin: 10px;
   }
+
+  .proyecto img {
+    width: 100%;        /* Ajusta el ancho al 100% del contenedor padre */
+    height: 200px;      /* Fija la altura de todas las imágenes */
+    object-fit: cover;  /* Mantén la proporción y recorta el contenido que se desborda */
+    border-radius: 10px;
+    display: block;
+    transition: all 0.2s ease;
+    padding: 10px;
+}
   
   /* Articulos */
   
